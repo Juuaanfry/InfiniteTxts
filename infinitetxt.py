@@ -1,6 +1,5 @@
 import msvcrt as m
 file=open('pass.txt','w+')
-print('pulsa un boton')
 def wait():
     m.getch()
 i=0
