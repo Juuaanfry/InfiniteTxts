@@ -1,7 +1,4 @@
-import msvcrt as m
 file=open('pass.txt','w+')
-def wait():
-    m.getch()
 i=0
 x=0
 while True:
